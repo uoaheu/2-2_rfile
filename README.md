@@ -6,7 +6,7 @@
 - `data_processing_and_io.R` : 벡터, 행렬, 데이터프레임 처리 및 입출력
 - `advanced_functions_and_simulations.R` : 사용자 정의 함수 및 시뮬레이션
 
-## 🚀 실행 방법
+## 실행 방법
 ```R
 source('scripts/setup_and_basics.R')
 source('scripts/data_processing_and_io.R')
