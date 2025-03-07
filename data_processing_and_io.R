@@ -18,7 +18,7 @@ cat("Matrix Column Means: ", colMeans(m), "\n")
 # 데이터프레임 생성
 df <- data.frame(
   no = c(1, 2, 3),
-  name = c('홍길동', '이순신', '유관순'),
+  name = c('홍길동', '이순신', '세종대왕'),
   score = c(90, 85, 95)
 )
 print(df)
